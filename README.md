@@ -1,31 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vibranixio</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibranixio&label=Profile%20views&color=0e75b6&style=flat" alt="vibranixio" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibranixio" alt="vibranixio" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vibranixio" target="blank"><img src="https://img.shields.io/twitter/follow/vibranixio?logo=twitter&style=for-the-badge" alt="vibranixio" /></a> </p>
-
-- 🔭 I’m currently working on **VIBRANIXIO**
-
-- 🌱 I’m currently learning **VIBRANIXIO**
-
-- 👯 I’m looking to collaborate on **VIBRANIXIO**
-
-- 🤝 I’m looking for help with **VIBRANIXIO**
-
-- 👨‍💻 All of my projects are available at [VIBRANIXIO](VIBRANIXIO)
-
-- 📝 I regularly write articles on [VIBRANIXIO](VIBRANIXIO)
-
-- 💬 Ask me about **VIBRANIXIO**
-
-- 📫 How to reach me **vibranixio@gmail.com**
-
-- 📄 Know about my experiences [VIBRANIXIO](VIBRANIXIO)
-
-- ⚡ Fun fact **VIBRANIXIO**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
